@@ -11,17 +11,14 @@
             "id": "ed0cd401e9c16d7a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Welcome"
             }
           }
         ]
@@ -175,8 +172,8 @@
   },
   "active": "ed0cd401e9c16d7a",
   "lastOpenFiles": [
-    "Welcome.md",
     "Untitled.canvas",
+    "Welcome.md",
     "Excalidraw/Drawing 2025-03-10 15.13.45.excalidraw.md",
     "Excalidraw"
   ]
