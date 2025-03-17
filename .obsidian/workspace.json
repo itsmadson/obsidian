@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test 2.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test 2"
+              "title": "Untitled"
             }
           }
         ]
@@ -173,8 +173,9 @@
   },
   "active": "ed0cd401e9c16d7a",
   "lastOpenFiles": [
-    "test note.md",
     "test 2.md",
+    "Untitled.md",
+    "test note.md",
     "Welcome.md",
     "Untitled.canvas",
     "Excalidraw/Drawing 2025-03-10 15.13.45.excalidraw.md",
