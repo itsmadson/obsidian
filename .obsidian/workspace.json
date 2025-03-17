@@ -11,14 +11,10 @@
             "id": "ed0cd401e9c16d7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test3.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "test3"
+              "title": "New tab"
             }
           }
         ]
@@ -171,14 +167,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "ed0cd401e9c16d7a",
+  "active": "f218f8797eb118b8",
   "lastOpenFiles": [
-    "test 2.md",
+    "Excalidraw/Drawing 2025-03-10 15.13.45.excalidraw.md",
     "test3.md",
+    "test 2.md",
     "test note.md",
     "Welcome.md",
     "Untitled.canvas",
-    "Excalidraw/Drawing 2025-03-10 15.13.45.excalidraw.md",
     "Excalidraw"
   ]
 }
