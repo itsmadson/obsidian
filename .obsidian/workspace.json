@@ -167,7 +167,6 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "yet-another-obsidian-synchronizer:YAOS": false,
       "github-sync:Sync with Remote": false
     }
   },
