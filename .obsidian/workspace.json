@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test note.md",
+                "file": "test 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test note"
+              "title": "test 2"
             }
           }
         ]
@@ -167,13 +167,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "yet-another-obsidian-synchronizer:YAOS": false
+      "yet-another-obsidian-synchronizer:YAOS": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "ed0cd401e9c16d7a",
   "lastOpenFiles": [
-    "Welcome.md",
     "test note.md",
+    "test 2.md",
+    "Welcome.md",
     "Untitled.canvas",
     "Excalidraw/Drawing 2025-03-10 15.13.45.excalidraw.md",
     "Excalidraw"
