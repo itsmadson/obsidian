@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LCD => BLL.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LCD => BLL"
+              "title": "TODO"
             }
           }
         ]
@@ -172,8 +172,8 @@
   },
   "active": "ed0cd401e9c16d7a",
   "lastOpenFiles": [
-    "TODO.md",
     "LCD => BLL.md",
+    "TODO.md",
     "Excalidraw/nextjs setup.excalidraw.md",
     "Excalidraw/Drawing 2025-03-10 15.13.45.excalidraw.md",
     "test3.md",
