@@ -11,12 +11,14 @@
             "id": "ed0cd401e9c16d7a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/nextjs setup.excalidraw.md"
+                "file": "LCD => BLL.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "nextjs setup.excalidraw"
+              "icon": "lucide-file",
+              "title": "LCD => BLL"
             }
           }
         ]
@@ -171,6 +173,7 @@
   "active": "ed0cd401e9c16d7a",
   "lastOpenFiles": [
     "TODO.md",
+    "LCD => BLL.md",
     "Excalidraw/nextjs setup.excalidraw.md",
     "Excalidraw/Drawing 2025-03-10 15.13.45.excalidraw.md",
     "test3.md",

@@ -1,0 +1,2 @@
+- xrandr --output eDP-1 --gamma 1.1:1.1:1.2 --brightness 1.1 
+- xiccd&
