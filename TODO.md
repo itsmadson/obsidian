@@ -11,4 +11,5 @@
 - Metaphor Spcae ver2 
 	- [problems: 1) top bar , 2)gemeni api ,3)publish to myket]
  
-
+**Content Creation
+- how to sync&backup ur obsidian notes with github ?
