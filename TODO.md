@@ -1,6 +1,6 @@
 **UNI&Study
-- tamrin haye data structures [https://quera.org/course/assignments/81837/problems]
-- Study 
+- data structures [https://quera.org/course/assignments/81837/problems]
+- Study [jende note]
  
 **DEVs
 - add github activity to my portfolio 
