@@ -13,3 +13,7 @@
  
 **Content Creation
 - how to sync&backup ur obsidian notes with github ?
+**DAY by DAY
+- 500 days of summer
+- Code Lyoko
+- David Heinemeier Hansson
