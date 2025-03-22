@@ -1,6 +1,8 @@
 **UNI&Study
 - data structures [https://quera.org/course/assignments/81837/problems]
 - Study [jende note]
+- Effective DevOps Book by Jennifer Davis and Ryn Daniels
+- Web application sec
  
 **DEVs
 - add github activity to my portfolio 
