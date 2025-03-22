@@ -1,0 +1,10 @@
+{
+  "github-sync:github-sync-command": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ]
+}
