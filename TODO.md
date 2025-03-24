@@ -1,6 +1,7 @@
 **UNI&Study
 - data structures [https://quera.org/course/assignments/81837/problems]
 - Study [jende note]
+- work on Madhand Mortazavi
 - Effective DevOps Book by Jennifer Davis and Ryn Daniels
 - Web application sec
  
@@ -17,5 +18,6 @@
 - how to sync&backup ur obsidian notes with github ?
 **DAY by DAY
 - 500 days of summer
+- www.youtube.com/watch?v=tNZnLkRBYA8
 - Code Lyoko
 - David Heinemeier Hansson
