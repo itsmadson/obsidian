@@ -21,3 +21,4 @@
 - www.youtube.com/watch?v=tNZnLkRBYA8
 - Code Lyoko
 - David Heinemeier Hansson
+- tech 
