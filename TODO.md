@@ -7,6 +7,7 @@
  
 **DEVs
 - [ ] add github activity to my portfolio 
+- [ ] fix farsi plus bugs [windows compatibility, linux prob]
 - [ ] clone loveless and make a app from it (RN)
 - [ ] publish VodSync
 - [ ] add sokhanyar to my portfolio

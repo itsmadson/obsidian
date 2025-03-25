@@ -167,13 +167,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "ed0cd401e9c16d7a",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Untitled Kanban.md",
     "TODO.md",
+    "Untitled.md",
     "Excalidraw/nextjs setup.excalidraw.md",
     "dw.md",
     "LCD => BLL.md",
