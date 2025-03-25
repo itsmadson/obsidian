@@ -1,17 +1,17 @@
 **UNI&Study
 - [ ] data structures https://quera.org/course/assignments/81837/problems
 - [ ] Study [jende note]
-- [ ] work on Madhand Mortazavi
+- [ ] Madhand Mortazavi [linux ver, vital comp]
 - [ ] Effective DevOps Book by Jennifer Davis and Ryn Daniels
 - [ ] Web application sec
  
 **DEVs
 - [ ] add github activity to my portfolio 
-- [ ] fix farsi plus bugs [windows compatibility, linux prob]
+- [ ] fix farsi plus bugs [windows compatibility, linux problems]
 - [ ] clone loveless and make a app from it (RN)
 - [ ] publish VodSync
 - [ ] add sokhanyar to my portfolio
-- [ ] send afsoone app for publish (bazzar-myket)
+- [ ] send afsoone(bazzar-myket)
 - [ ] Metaphor Spcae ver2 
 	- [ ] [problems: 1) top bar , 2)gemeni api ,3)publish to myket]
  
