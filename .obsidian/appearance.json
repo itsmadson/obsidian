@@ -1,4 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Terminal"
+  "cssTheme": "Terminal",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true
 }

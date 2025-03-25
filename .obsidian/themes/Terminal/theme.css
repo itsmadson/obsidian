@@ -187,7 +187,7 @@ settings:
   --the-color-rgb: 35, 255, 24;
   --the-background-color: #000000;
   --the-font: Fira Code;
-  --the-font-size: 14px;
+  --the-font-size: 1.1rem;
   --editor-line-height: 1.3;
   --char-width: calc(0.625 * var(--the-font-size)); /* the ratio is determined by the font-family */
 
