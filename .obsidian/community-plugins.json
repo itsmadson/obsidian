@@ -1,4 +1,6 @@
 [
   "obsidian-excalidraw-plugin",
-  "github-sync"
+  "github-sync",
+  "obsidian-style-settings",
+  "obsidian-theme-design-utilities"
 ]

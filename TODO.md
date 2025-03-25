@@ -1,5 +1,5 @@
 **UNI&Study
-- data structures [https://quera.org/course/assignments/81837/problems]
+- data structures https://quera.org/course/assignments/81837/problems
 - Study [jende note]
 - work on Madhand Mortazavi
 - Effective DevOps Book by Jennifer Davis and Ryn Daniels
@@ -21,4 +21,4 @@
 - www.youtube.com/watch?v=tNZnLkRBYA8
 - Code Lyoko
 - David Heinemeier Hansson
-- tech 
+- tech with jono
