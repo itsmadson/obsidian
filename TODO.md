@@ -7,11 +7,12 @@
  
 **DEVs
 - [ ] add github activity to my portfolio 
+- [ ] App image kitira, 
 - [ ] fix farsi plus bugs [windows compatibility, linux problems]
 - [ ] clone loveless and make a app from it (RN)
 - [ ] publish VodSync
 - [ ] add sokhanyar to my portfolio
-- [ ] send afsoone(bazzar-myket)
+- [ ] afsoone(bazzar-myket)
 - [ ] Metaphor Spcae ver2 
 	- [ ] [problems: 1) top bar , 2)gemeni api ,3)publish to myket]
  
