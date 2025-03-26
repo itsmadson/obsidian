@@ -2,12 +2,12 @@
 - [ ] data structures https://quera.org/course/assignments/81837/problems
 - [ ] Study [jende note]
 - [ ] Madhand Mortazavi [linux ver, vital comp]
-- [ ] Effective DevOps Book by Jennifer Davis and Ryn Daniels
+- [ ] Effective DevOps Book by Jennifer Davis and Ryn Daniels [tablet]
 - [ ] Web application sec
  
 **DEVs
 - [ ] add github activity to my portfolio 
-- [ ] App image kitira, 
+- [ ] App image kitira
 - [ ] fix farsi plus bugs [windows compatibility, linux problems]
 - [ ] clone loveless and make a app from it (RN)
 - [ ] publish VodSync
@@ -23,4 +23,4 @@
 - [ ] www.youtube.com/watch?v=tNZnLkRBYA8
 - [ ] Code Lyoko
 - [ ] David Heinemeier Hansson
-- [ ] tech with jono
+- [x] tech with jono
