@@ -1,26 +1,28 @@
-**UNI&Study
-- [ ] data structures https://quera.org/course/assignments/81837/problems
-- [ ] Study [jende note]
-- [ ] Madhand Mortazavi [linux ver, vital comp]
-- [ ] Effective DevOps Book by Jennifer Davis and Ryn Daniels [tablet]
-- [ ] Web application sec
- 
-**DEVs
-- [ ] add github activity to my portfolio 
-- [ ] App image kitira
-- [ ] fix farsi plus bugs [windows compatibility, linux problems]
-- [ ] clone loveless and make a app from it (RN)
-- [ ] publish VodSync
-- [ ] add sokhanyar to my portfolio
-- [ ] afsoone(bazzar-myket)
-- [ ] Metaphor Spcae ver2 
-	- [ ] [problems: 1) top bar , 2)gemeni api ,3)publish to myket]
- 
-**Content Creation
-- [ ] how to sync&backup ur obsidian notes with github ?
-**DAY by DAY
-- [ ] 500 days of summer
+**UNI&Study**
+- [ ] Data Structures https://quera.org/course/assignments/81837/problems
+- [ ] Study [Jende Notes]
+- [ ] Madhand Mortazavi [Linux Version, Vital Components]
+- [ ] Effective DevOps Book by Jennifer Davis and Ryn Daniels [Tablet]
+- [ ] Web Application Security
+
+**DEVs**
+- [ ] Add GitHub Activity to My Portfolio
+- [ ] App Image Kitira
+- [ ] Fix Farsi Plus Bugs [Windows Compatibility, Linux Problems]
+- [ ] Clone Loveless and Make an App from It (RN)
+- [ ] Publish VodSync
+- [ ] Add Sokhanyar to My Portfolio
+- [ ] Afsoone (Bazzar, Myket)
+- [ ] Metaphor Space v2
+  - [ ] [Problems: 1) Top Bar, 2) Gemini API, 3) Publish to Myket]
+
+**Content Creation**
+- [ ] How to Sync & Backup Your Obsidian Notes with GitHub?
+- [ ] freelance platforms 
+
+**DAY by DAY**
+- [ ] 500 Days of Summer
 - [ ] www.youtube.com/watch?v=tNZnLkRBYA8
 - [ ] Code Lyoko
 - [ ] David Heinemeier Hansson
-- [x] tech with jono
+- [x] Tech with Jono
