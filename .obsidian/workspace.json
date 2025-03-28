@@ -11,6 +11,30 @@
             "id": "ed0cd401e9c16d7a",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Nextjs/2.Router.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "2.Router.excalidraw"
+            }
+          },
+          {
+            "id": "13a06a473d6971ff",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Nextjs/3.Layouts & Contexts.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "3.Layouts & Contexts.excalidraw"
+            }
+          },
+          {
+            "id": "aae1c8e915699316",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "TODO.md",
@@ -21,7 +45,8 @@
               "title": "TODO"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,10 +196,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ed0cd401e9c16d7a",
+  "active": "aae1c8e915699316",
   "lastOpenFiles": [
+    "Excalidraw/Nextjs/4.Optimizations.excalidraw.md",
+    "Excalidraw/Nextjs/3.Layouts & Contexts.excalidraw.md",
     "Excalidraw/Nextjs/2.Router.excalidraw.md",
     "Excalidraw/Nextjs/1.Setup.excalidraw.md",
+    "Pasted Image 20250328162403_378.png",
+    "Excalidraw/Drawing 2025-03-28 16.08.43.excalidraw.md",
     "TODO.md",
     "Excalidraw/nextjs setup.excalidraw.md",
     "Excalidraw/2.Nextjs.Router.excalidraw.md",
