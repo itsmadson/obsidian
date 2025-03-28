@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 283.5
   },
   "right": {
     "id": "3ee8cb7a5507c887",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-10 15.13.45.excalidraw.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2025-03-10 15.13.45.excalidraw"
+              "title": "Backlinks for TODO"
             }
           },
           {
@@ -173,9 +173,15 @@
   },
   "active": "ed0cd401e9c16d7a",
   "lastOpenFiles": [
-    "LCD => BLL.md",
+    "Excalidraw/Nextjs/2.Nextjs.Router.excalidraw.md",
+    "Excalidraw/Nextjs/1.Nextjs.Setup.excalidraw.md",
     "Excalidraw/nextjs setup.excalidraw.md",
+    "Excalidraw/2.Nextjs.Router.excalidraw.md",
+    "Excalidraw/Nextjs",
+    "Excalidraw/nextjs setup.excalidraw 1.md",
+    "Excalidraw/Untitled.md",
     "TODO.md",
+    "LCD => BLL.md",
     "Untitled Kanban.md",
     "Untitled.md",
     "dw.md",

@@ -4,6 +4,7 @@
 - [ ] Madhand Mortazavi [Linux Version, Vital Components]
 - [ ] Effective DevOps Book by Jennifer Davis and Ryn Daniels [Tablet]
 - [ ] Web Application Security
+- [ ] Nextjs cource [1,2]
 
 **DEVs**
 - [ ] Add GitHub Activity to My Portfolio
