@@ -27,3 +27,4 @@
 - [ ] Code Lyoko
 - [ ] David Heinemeier Hansson
 - [x] Tech with Jono
+- [ ] Note Cycle on guitar
