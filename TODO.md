@@ -1,5 +1,5 @@
 **UNI&Study**
-- [ ] Data Structures https://quera.org/course/assignments/81837/problems
+- [ ] Data Structures https://quera.org/course/assignments/81837/problems , https://s33.picofile.com/d/8483084718/555a5b9b-969d-4634-b366-f11559c6ab56/%D8%AA%D9%85%D8%B1%DB%8C%D9%86_%DB%8C%DA%A9_%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86%E2%80%8C%D8%AF%D8%A7%D8%AF%D9%87.pdf
 - [ ] Study [Jende Notes]
 - [ ] Madhand Mortazavi [Linux Version, Vital Components]
 - [ ] Effective DevOps Book by Jennifer Davis and Ryn Daniels [Tablet]
