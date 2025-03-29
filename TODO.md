@@ -8,7 +8,8 @@
 
 **DEVs**
 - [ ] Add GitHub Activity to My Portfolio
-- [ ] App Image Kitira
+- [x] App Image Kitira
+- [ ] Vite to Astro for better SEO and change head
 - [ ] Fix Farsi Plus Bugs [Windows Compatibility, Linux Problems]
 - [ ] Clone Loveless and Make an App from It (RN)
 - [ ] Publish VodSync

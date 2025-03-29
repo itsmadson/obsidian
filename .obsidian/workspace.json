@@ -35,12 +35,14 @@
             "id": "aae1c8e915699316",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Nextjs/1.Setup.excalidraw.md"
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "1.Setup.excalidraw"
+              "icon": "lucide-file",
+              "title": "TODO"
             }
           }
         ],
@@ -196,11 +198,11 @@
   },
   "active": "aae1c8e915699316",
   "lastOpenFiles": [
+    "Excalidraw/Nextjs/3.Layouts & Contexts.excalidraw.md",
+    "Excalidraw/Nextjs/1.Setup.excalidraw.md",
     "TODO.md",
     "Excalidraw/Nextjs/4.Optimizations.excalidraw.md",
-    "Excalidraw/Nextjs/3.Layouts & Contexts.excalidraw.md",
     "Excalidraw/Nextjs/2.Router.excalidraw.md",
-    "Excalidraw/Nextjs/1.Setup.excalidraw.md",
     "Pasted Image 20250328162403_378.png",
     "Excalidraw/Drawing 2025-03-28 16.08.43.excalidraw.md",
     "Excalidraw/nextjs setup.excalidraw.md",
