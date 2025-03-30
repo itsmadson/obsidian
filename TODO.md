@@ -4,7 +4,7 @@
 - [ ] Madhand Mortazavi [Linux Version, Vital Components]
 - [ ] Effective DevOps Book by Jennifer Davis and Ryn Daniels [Tablet]
 - [ ] Web Application Security
-- [x] Nextjs cource [[[1.Setup.excalidraw]],[[2.Router.excalidraw]],[[3.Layouts & Contexts.excalidraw]],4.Optimiza
+- [x] Nextjs cource [[[1.Setup.excalidraw]],[[2.Router.excalidraw]],[[3.Layouts & Contexts.excalidraw]],4.Optimizations
 
 **DEVs**
 - [ ] Add GitHub Activity to My Portfolio
