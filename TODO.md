@@ -6,6 +6,8 @@
 - [ ] Nextjs cource [[1.Setup.excalidraw]],[[2.Router.excalidraw]],[[3.Layouts & Contexts.excalidraw]],[[4.Optimizations.excalidraw]]
 
 **DEVs**
+- [ ] Madhand Mortazavi [Linux Version, Vital Components]
+- [ ]  Afsoone (Bazzar, Myket)
 - [ ] Add GitHub Activity to My Portfolio
 - [x] App Image Kitira
 - [ ] Vite to Astro for better SEO and change head
@@ -13,7 +15,7 @@
 - [ ] Clone Loveless and Make an App from It (RN)
 - [ ] Publish VodSync
 - [ ] Add Sokhanyar to My Portfolio
-- [ ] Afsoone (Bazzar, Myket)
+
 - [ ] Metaphor Space v2
   - [ ] [Problems: 1) Top Bar, 2) Gemini API, 3) Publish to Myket]
 
