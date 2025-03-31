@@ -7,10 +7,10 @@
 
 **DEVs**
 - [ ] Madhand Mortazavi [Linux Version, Vital Components]
-- [ ]  Afsoone (Bazzar, Myket)
+- [ ] Afsoone (Bazzar, Myket)
+- [ ] Vite to Astro for better SEO and change head (analysis )
 - [ ] Add GitHub Activity to My Portfolio
 - [x] App Image Kitira
-- [ ] Vite to Astro for better SEO and change head
 - [ ] Fix Farsi Plus Bugs [Windows Compatibility, Linux Problems]
 - [ ] Clone Loveless and Make an App from It (RN)
 - [ ] Publish VodSync
