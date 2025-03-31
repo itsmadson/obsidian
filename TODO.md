@@ -26,6 +26,6 @@
 - [ ] 500 Days of Summer
 - [ ] www.youtube.com/watch?v=tNZnLkRBYA8
 - [ ] Code Lyoko
-- [ ] David Heinemeier Hansson
+- [x] David Heinemeier Hansson
 - [x] Tech with Jono
 - [ ] Note Cycle on guitar
