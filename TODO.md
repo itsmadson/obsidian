@@ -11,7 +11,7 @@
 - [ ] Vite to Astro for better SEO and change head (analysis)
 - [ ] Add GitHub Activity to My Portfolio
 - [x] App Image Kitira
-- [ ] Fix Farsi Plus Bugs [Windows Compatibility, Linux Problems]
+- [ ] Fix Farsi Plus Bugs [Windows Compatibility, Linux issues]
 - [ ] Clone Loveless and Make an App from It (RN)
 - [ ] Publish VodSync
 - [ ] Add Sokhanyar to My Portfolio
