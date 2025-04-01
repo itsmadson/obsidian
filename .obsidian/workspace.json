@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "LCD => BLL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "LCD => BLL"
             }
           }
         ],
@@ -198,15 +198,15 @@
   },
   "active": "58ae4f4a5289b1c1",
   "lastOpenFiles": [
-    "Excalidraw/Nextjs/6.Database-Prisma.excalidraw.md",
-    "Excalidraw/Nextjs/5.Backend-Configuration.excalidraw.md",
     "TODO.md",
-    "LCD => BLL.md",
+    "Excalidraw/Nextjs/6.Database-Prisma.excalidraw.md",
     "Excalidraw/Nextjs/4.Optimizations.excalidraw.md",
-    "Pasted Image 20250331131046_975.png",
-    "Excalidraw/Nextjs/3.Layouts & Contexts.excalidraw.md",
-    "Excalidraw/Nextjs/2.Router.excalidraw.md",
+    "Excalidraw/Nextjs/5.Backend-Configuration.excalidraw.md",
     "Excalidraw/Nextjs/1.Setup.excalidraw.md",
+    "Excalidraw/Nextjs/2.Router.excalidraw.md",
+    "Excalidraw/Nextjs/3.Layouts & Contexts.excalidraw.md",
+    "LCD => BLL.md",
+    "Pasted Image 20250331131046_975.png",
     "[1.Setup.excalidraw.md",
     "Pasted Image 20250328162403_378.png",
     "Excalidraw/Drawing 2025-03-28 16.08.43.excalidraw.md",
