@@ -1,6 +1,7 @@
 {
-  "remoteURL": "https://github.com/itsmadson/obsidian.git",
+  "remoteURL": "",
   "gitLocation": "",
   "syncinterval": 0,
-  "isSyncOnLoad": true
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true
 }
