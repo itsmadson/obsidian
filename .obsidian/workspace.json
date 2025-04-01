@@ -23,6 +23,18 @@
             "id": "21663423b77254af",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Nextjs/5.Backend-Configuration.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "5.Backend-Configuration.excalidraw"
+            }
+          },
+          {
+            "id": "58ae4f4a5289b1c1",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "TODO.md",
@@ -34,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,15 +196,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "21663423b77254af",
+  "active": "58ae4f4a5289b1c1",
   "lastOpenFiles": [
+    "Excalidraw/Nextjs/6.Database-Prisma.excalidraw.md",
     "Excalidraw/Nextjs/5.Backend-Configuration.excalidraw.md",
+    "TODO.md",
+    "LCD => BLL.md",
     "Excalidraw/Nextjs/4.Optimizations.excalidraw.md",
     "Pasted Image 20250331131046_975.png",
     "Excalidraw/Nextjs/3.Layouts & Contexts.excalidraw.md",
     "Excalidraw/Nextjs/2.Router.excalidraw.md",
     "Excalidraw/Nextjs/1.Setup.excalidraw.md",
-    "TODO.md",
     "[1.Setup.excalidraw.md",
     "Pasted Image 20250328162403_378.png",
     "Excalidraw/Drawing 2025-03-28 16.08.43.excalidraw.md",
@@ -201,7 +215,6 @@
     "Excalidraw/Nextjs",
     "Excalidraw/nextjs setup.excalidraw 1.md",
     "Excalidraw/Untitled.md",
-    "LCD => BLL.md",
     "Untitled Kanban.md",
     "Untitled.md",
     "dw.md",

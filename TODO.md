@@ -3,7 +3,7 @@
 - [ ] Study [Jende Notes]
 - [ ] Effective DevOps Book by Jennifer Davis and Ryn Daniels [Tablet]
 - [ ] Web Application Security
-- [x] Nextjs cource [[1.Setup.excalidraw]],[[2.Router.excalidraw]],[[3.Layouts & Contexts.excalidraw]],[[4.Optimizations.excalidraw]],[[5.Backend-Configuration.excalidraw]]
+- [x] Nextjs cource [[1.Setup.excalidraw]],[[2.Router.excalidraw]],[[3.Layouts & Contexts.excalidraw]],[[4.Optimizations.excalidraw]],[[5.Backend-Configuration.excalidraw]][[]]
 
 **DEVs**
 - [ ] Madhand Mortazavi [Linux Version, Vital Components]
