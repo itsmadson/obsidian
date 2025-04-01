@@ -3,12 +3,12 @@
 - [ ] Study [Jende Notes]
 - [ ] Effective DevOps Book by Jennifer Davis and Ryn Daniels [Tablet]
 - [ ] Web Application Security
-- [ ] Nextjs cource [[1.Setup.excalidraw]],[[2.Router.excalidraw]],[[3.Layouts & Contexts.excalidraw]],[[4.Optimizations.excalidraw]]
+- [ ] Nextjs cource [[1.Setup.excalidraw]],[[2.Router.excalidraw]],[[3.Layouts & Contexts.excalidraw]],[[4.Optimizations.excalidraw]],[[]]
 
 **DEVs**
 - [ ] Madhand Mortazavi [Linux Version, Vital Components]
 - [ ] Afsoone (Bazzar, Myket)
-- [ ] Vite to Astro for better SEO and change head (analysis )
+- [ ] Vite to Astro for better SEO and change head (analysis)
 - [ ] Add GitHub Activity to My Portfolio
 - [x] App Image Kitira
 - [ ] Fix Farsi Plus Bugs [Windows Compatibility, Linux Problems]
