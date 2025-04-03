@@ -23,12 +23,14 @@
             "id": "13a99c8207650665",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Nextjs/1.Setup.excalidraw.md"
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "1.Setup.excalidraw"
+              "icon": "lucide-file",
+              "title": "TODO"
             }
           }
         ],
@@ -184,15 +186,15 @@
   },
   "active": "13a99c8207650665",
   "lastOpenFiles": [
+    "Excalidraw/Nextjs/1.Setup.excalidraw.md",
     "Excalidraw/Nextjs/7.Authentication & Middleware.excalidraw.md",
     "Excalidraw/Nextjs/6.Database-Prisma.excalidraw.md",
     "Excalidraw/Nextjs/5.Backend-Configuration.excalidraw.md",
-    "Excalidraw/Nextjs/1.Setup.excalidraw.md",
+    "TODO.md",
     "Excalidraw/Nextjs/4.Optimizations.excalidraw.md",
     "LCD.md",
     "Excalidraw/Nextjs/3.Layouts & Contexts.excalidraw.md",
     "Excalidraw/Nextjs/2.Router.excalidraw.md",
-    "TODO.md",
     "Pasted Image 20250331131046_975.png",
     "[1.Setup.excalidraw.md",
     "Pasted Image 20250328162403_378.png",

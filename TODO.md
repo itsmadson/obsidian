@@ -7,6 +7,7 @@
 
 **DEVs**
 - [ ] Madhand Mortazavi [Linux Version, Vital Components]
+- [ ] organized my next
 - [ ] Afsoone (Bazzar, Myket)
 - [ ] Vite to Astro for better SEO and change head (analysis)
 - [ ] Add GitHub Activity to My Portfolio
