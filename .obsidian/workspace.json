@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 200
   },
   "right": {
     "id": "3ee8cb7a5507c887",
@@ -186,14 +186,14 @@
   },
   "active": "13a99c8207650665",
   "lastOpenFiles": [
-    "Excalidraw/Nextjs/7.Authentication & Middleware.excalidraw.md",
-    "Excalidraw/Nextjs/6.Database-Prisma.excalidraw.md",
+    "Excalidraw/Nextjs/1.Setup.excalidraw.md",
     "Excalidraw/Nextjs/5.Backend-Configuration.excalidraw.md",
     "Excalidraw/Nextjs/4.Optimizations.excalidraw.md",
-    "Excalidraw/Nextjs/1.Setup.excalidraw.md",
-    "Excalidraw/Nextjs/2.Router.excalidraw.md",
     "Excalidraw/Nextjs/3.Layouts & Contexts.excalidraw.md",
+    "Excalidraw/Nextjs/2.Router.excalidraw.md",
+    "Excalidraw/Nextjs/7.Authentication & Middleware.excalidraw.md",
     "TODO.md",
+    "Excalidraw/Nextjs/6.Database-Prisma.excalidraw.md",
     "LCD.md",
     "Pasted Image 20250331131046_975.png",
     "[1.Setup.excalidraw.md",
