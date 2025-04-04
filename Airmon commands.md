@@ -15,3 +15,6 @@ leaontek-ml
 liteontechno 
 xiaomiCommun
 neterbit
+
+
+/usr/share/grub/themes/tartarus/
