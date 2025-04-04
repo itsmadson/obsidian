@@ -12,6 +12,6 @@ sudo dhclient wlan0
 
 ML141 
 leaontek-ml
-liteontechno (koche cam)
+liteontechno 
 xiaomiCommun
 neterbit
