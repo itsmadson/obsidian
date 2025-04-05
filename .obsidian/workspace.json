@@ -23,12 +23,14 @@
             "id": "13a99c8207650665",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Nextjs/7.Authentication & Middleware.excalidraw.md"
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "7.Authentication & Middleware.excalidraw"
+              "icon": "lucide-file",
+              "title": "TODO"
             }
           }
         ],
@@ -184,8 +186,8 @@
   },
   "active": "13a99c8207650665",
   "lastOpenFiles": [
-    "Excalidraw/Nextjs/6.Database-Prisma.excalidraw.md",
     "Excalidraw/Nextjs/7.Authentication & Middleware.excalidraw.md",
+    "Excalidraw/Nextjs/6.Database-Prisma.excalidraw.md",
     "Airmon commands.md",
     "Excalidraw/Nextjs/1.Setup.excalidraw.md",
     "TODO.md",
