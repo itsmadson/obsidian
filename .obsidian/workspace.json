@@ -25,10 +25,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Nextjs/6.Database-Prisma.excalidraw.md"
+                "file": "Excalidraw/Nextjs/7.Authentication & Middleware.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "6.Database-Prisma.excalidraw"
+              "title": "7.Authentication & Middleware.excalidraw"
             }
           }
         ],
@@ -184,12 +184,12 @@
   },
   "active": "13a99c8207650665",
   "lastOpenFiles": [
+    "Excalidraw/Nextjs/6.Database-Prisma.excalidraw.md",
     "Excalidraw/Nextjs/7.Authentication & Middleware.excalidraw.md",
     "Airmon commands.md",
     "Excalidraw/Nextjs/1.Setup.excalidraw.md",
     "TODO.md",
     "LCD.md",
-    "Excalidraw/Nextjs/6.Database-Prisma.excalidraw.md",
     "Excalidraw/Nextjs/5.Backend-Configuration.excalidraw.md",
     "Excalidraw/Nextjs/4.Optimizations.excalidraw.md",
     "Excalidraw/Nextjs/3.Layouts & Contexts.excalidraw.md",
