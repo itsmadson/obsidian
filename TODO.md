@@ -15,7 +15,6 @@
 - [ ] Clone Loveless and Make an App from It (RN)
 - [ ] Publish VodSync
 - [ ] Add Sokhanyar to My Portfolio
-
 - [ ] Metaphor Space v2
   - [ ] [issues: 1) Top Bar, 2) Gemini API, 3) Publish to Myket]
 
