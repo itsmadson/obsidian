@@ -6,8 +6,7 @@
 - [x] Nextjs cource [[1.Setup.excalidraw]],[[2.Router.excalidraw]],[[3.Layouts & Contexts.excalidraw]],[[4.Optimizations.excalidraw]],[[5.Backend-Configuration.excalidraw]][[6.Database-Prisma.excalidraw]][[7.Authentication & Middleware.excalidraw]]
 
 **DEVs**
-
-- [ ] organized my nextjs note
+- [x] organized my nextjs note
 - [ ] Afsoone (Bazzar, Myket)
 - [ ] Vite to Astro for better SEO and change head (analysis)
 - [ ] Add GitHub Activity to My Portfolio
