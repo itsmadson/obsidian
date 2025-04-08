@@ -7,6 +7,8 @@
 
 **DEVs**
 - [x] organized my nextjs note
+- [x] House price prediction
+- [ ] Proposal & paper house price prediction
 - [ ] Afsoone (Bazzar, Myket)
 - [ ] Vite to Astro for better SEO and change head (analysis)
 - [ ] Add GitHub Activity to My Portfolio
@@ -14,13 +16,12 @@
 - [ ] Fix Farsi Plus Bugs [Windows Compatibility, Linux issues]
 - [ ] Clone Loveless and Make an App from It (RN)
 - [ ] Publish VodSync
-- [ ] Add Sokhanyar to My Portfolio
+- [ ] Add Sokhanyar & HPP  to My Portfolio
 - [ ] Metaphor Space v2
   - [ ] [issues: 1) Top Bar, 2) Gemini API, 3) Publish to Myket]
 
 **Content Creation**
 - [ ] How to Sync & Backup Your Obsidian Notes with GitHub?
-- [ ] freelance platforms 
 
 **DAY by DAY**
 - [ ] 500 Days of Summer
