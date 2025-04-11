@@ -24,7 +24,7 @@
 - [ ] How to Sync & Backup Your Obsidian Notes with GitHub?
 
 **DAY by DAY**
-- [ ] 500 Days of Summer
+- [x] 500 Days of Summer
 - [ ] www.youtube.com/watch?v=tNZnLkRBYA8
 - [ ] Code Lyoko
 - [x] David Heinemeier Hansson
@@ -34,4 +34,4 @@
 - [ ] پنتاتونیک شیپ اول
 - [ ] ionian
 - [ ] شیپ های 2 تا 5 پنتاتونیک
-- [ ] نسل مضطرب / ملت دوپامینس
+- [ ] نسل مضطرب / ملت دوپامین
