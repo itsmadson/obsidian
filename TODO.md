@@ -27,6 +27,7 @@
 - [x] 500 Days of Summer
 - [ ] www.youtube.com/watch?v=tNZnLkRBYA8
 - [ ] Code Lyoko
+- [ ] solo leveling (s)
 - [x] David Heinemeier Hansson
 - [x] Tech with Jono
 - [ ] Note Cycle on guitar
