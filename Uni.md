@@ -1,10 +1,12 @@
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJvenRveXhoYnFkeWhja3BrenJmM2VyYzgxZ2Qyc3VrNGg1ZzVrdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fhAwk4DnqNgw8/giphy.gif)
 ### ساختمان داده
 - [ ] کتاب
-- [ ] تمرین های w3
+- [ ] تمرین های w3 
+- [ ] جنریتور ها و ریکرسیو فانکشن ها
 ### آمار و احتمال مهندسی
-- [ ] کتاب آمار
+- [ ] کتاب احتمال خیلی سبز
 - [ ] تمرین
+- [ ] جزوه احتمال زارع
 ### طراحی کامپیوتری سیستم
 - [ ] نصب verilog 
 - [ ] معماری برد
