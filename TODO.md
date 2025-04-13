@@ -1,6 +1,6 @@
 **UNI&Study**
 - [x] Data Structures https://quera.org/course/assignments/81837/problems 
-- [ ] Study [Jende Notes]
+
 - [x] Effective DevOps Book by Jennifer Davis and Ryn Daniels [Tablet]
 - [ ] Web Application Security
 - [x] Nextjs cource [[1.Setup.excalidraw]],[[2.Router.excalidraw]],[[3.Layouts & Contexts.excalidraw]],[[4.Optimizations.excalidraw]],[[5.Backend-Configuration.excalidraw]][[6.Database-Prisma.excalidraw]][[7.Authentication & Middleware.excalidraw]]
@@ -25,7 +25,7 @@
 
 **DAY by DAY**
 - [x] 500 Days of Summer
-- [ ] photo catch (3d obj)
+- [ ] https://alicevision.org/#meshroom (3d obj)
 - [ ] lightnote.co
 - [ ] www.youtube.com/watch?v=tNZnLkRBYA8
 - [ ] Code Lyoko
