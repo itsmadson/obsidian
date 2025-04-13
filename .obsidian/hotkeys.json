@@ -23,5 +23,13 @@
       ],
       "key": "T"
     }
+  ],
+  "giphy:search-gifs": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "G"
+    }
   ]
 }
