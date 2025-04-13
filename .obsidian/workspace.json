@@ -11,6 +11,30 @@
             "id": "fea714970eeb248e",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Computer-Aided-Digital-System-Design.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Computer-Aided-Digital-System-Design.excalidraw"
+            }
+          },
+          {
+            "id": "de957e8a103782ec",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Data-Strcuture.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Data-Strcuture.excalidraw"
+            }
+          },
+          {
+            "id": "e61b3ae3b1deec79",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Uni.md",
@@ -21,7 +45,8 @@
               "title": "Uni"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,12 +196,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fea714970eeb248e",
+  "active": "e61b3ae3b1deec79",
   "lastOpenFiles": [
-    "TODO.md",
+    "Excalidraw/Computer-Architecture.excalidraw.md",
+    "Excalidraw/Data-Strcuture.excalidraw.md",
     "Uni.md",
-    "Excalidraw/Nextjs/7.Authentication & Middleware.excalidraw.md",
     "Excalidraw/Computer-Aided-Digital-System-Design.excalidraw.md",
+    "TODO.md",
+    "Excalidraw/Nextjs/7.Authentication & Middleware.excalidraw.md",
     "Excalidraw/Uni",
     "Airmon commands.md",
     "LCD.md",
@@ -201,8 +228,6 @@
     "Excalidraw/Drawing 2025-03-10 15.13.45.excalidraw.md",
     "test3.md",
     "test 2.md",
-    "test note.md",
-    "Welcome.md",
     "Untitled.canvas",
     "Excalidraw"
   ]
