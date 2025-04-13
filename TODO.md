@@ -25,6 +25,7 @@
 
 **DAY by DAY**
 - [x] 500 Days of Summer
+- [ ] photo catch (3d obj)
 - [ ] www.youtube.com/watch?v=tNZnLkRBYA8
 - [ ] Code Lyoko
 - [ ] solo leveling (s2)
