@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Computer-Aided-Digital-System-Design.excalidraw.md"
+                "file": "Excalidraw/Uni/Computer-Aided-Digital-System-Design.excalidraw.md"
               },
               "icon": "excalidraw-icon",
               "title": "Computer-Aided-Digital-System-Design.excalidraw"
@@ -25,7 +25,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Data-Strcuture.excalidraw.md"
+                "file": "Excalidraw/Uni/Data-Strcuture.excalidraw.md"
               },
               "icon": "excalidraw-icon",
               "title": "Data-Strcuture.excalidraw"
@@ -196,12 +196,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e61b3ae3b1deec79",
+  "active": "f218f8797eb118b8",
   "lastOpenFiles": [
-    "Excalidraw/Computer-Architecture.excalidraw.md",
-    "Excalidraw/Data-Strcuture.excalidraw.md",
+    "Excalidraw/Uni/Computer-Architecture.excalidraw.md",
+    "Excalidraw/Uni/Data-Strcuture.excalidraw.md",
     "Uni.md",
-    "Excalidraw/Computer-Aided-Digital-System-Design.excalidraw.md",
+    "Excalidraw/Uni/Computer-Aided-Digital-System-Design.excalidraw.md",
     "TODO.md",
     "Excalidraw/Nextjs/7.Authentication & Middleware.excalidraw.md",
     "Excalidraw/Uni",
