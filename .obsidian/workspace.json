@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0820b2d8ce748194",
+        "id": "fbd4171dad1c53cd",
         "type": "tabs",
         "children": [
           {
-            "id": "fea714970eeb248e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Uni/Computer-Aided-Digital-System-Design.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Computer-Aided-Digital-System-Design.excalidraw"
-            }
-          },
-          {
-            "id": "de957e8a103782ec",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Uni/Data-Strcuture.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Data-Strcuture.excalidraw"
-            }
-          },
-          {
-            "id": "e61b3ae3b1deec79",
+            "id": "3ba7bc313b86ac13",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -45,8 +21,7 @@
               "title": "Uni"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,12 +171,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f218f8797eb118b8",
+  "active": "3ba7bc313b86ac13",
   "lastOpenFiles": [
-    "Excalidraw/Uni/Computer-Architecture.excalidraw.md",
+    "Excalidraw/Uni/Computer-Aided-Digital-System-Design.excalidraw.md",
     "Excalidraw/Uni/Data-Strcuture.excalidraw.md",
     "Uni.md",
-    "Excalidraw/Uni/Computer-Aided-Digital-System-Design.excalidraw.md",
+    "Excalidraw/Uni/Computer-Architecture.excalidraw.md",
     "TODO.md",
     "Excalidraw/Nextjs/7.Authentication & Middleware.excalidraw.md",
     "Excalidraw/Uni",
