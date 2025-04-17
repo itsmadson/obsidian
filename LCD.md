@@ -1,2 +1,3 @@
 - set: xrandr --output eDP-1 --gamma 1.1:1.1:1.2 --brightness 1.1 
+- xrandr --output eDP-1 --gamma 1.1:1.0:0.9 --brightness 1.1
 - restore: xiccd& 
