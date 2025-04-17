@@ -10,7 +10,7 @@
 - [ ] جزوه احتمال زارع
 ### طراحی کامپیوتری سیستم [[Computer-Aided-Digital-System-Design.excalidraw]]
 - [ ] نصب quartas 2 
-- [ ] معماری برد
+
 - [ ] نوشتن جزوش
 - [ ] تمرین:
 طراحی full adder با استفاده از:
