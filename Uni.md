@@ -12,6 +12,10 @@
 - [ ] نصب quartas 2 
 - [ ] معماری برد
 - [ ] نوشتن جزوش
+- [ ] تمرین:
+طراحی full adder با استفاده از:
+1) LUT (Look up table)
+2) MUX (Multiplexer) 2×1
 ### معماری کامپیوتر [[Computer-Architecture.excalidraw]]
 - [ ] دانلود جزوه هاش
 - [ ] تمرین صفحه ۲۹
