@@ -6,12 +6,12 @@
 **DEVs**
 - [x] organized my nextjs note
 - [x] House price prediction
-- [ ] Proposal & paper house price prediction
+- [x] Proposal & paper house price prediction
 - [ ] Afsoone (Bazzar, Myket)
 - [ ] Vite to Astro for better SEO and change head (analysis)
 - [ ] Add GitHub Activity to My Portfolio
 - [x] App Image Kitira
-- [ ] Fix Farsi Plus Bugs [Windows Compatibility, Linux issues]
+- [x] Fix Farsi Plus Bugs [Windows Compatibility, Linux issues]
 - [ ] Clone Loveless and Make an App from It (RN)
 - [ ] Publish VodSync
 - [ ] Add Sokhanyar & HPP  to My Portfolio
@@ -35,4 +35,4 @@
 - [ ] پنتاتونیک شیپ اول
 - [ ] ionian
 - [ ] شیپ های 2 تا 5 پنتاتونیک
-- [ ] نسل مضطرب / ملت دوپامین
+- [x] نسل مضطرب / ملت دوپامین
