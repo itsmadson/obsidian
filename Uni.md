@@ -12,7 +12,8 @@
   - [[2.-Principles.pdf]]
   - [[3.-Programmable-Logic-Devices.pdf]]
   - [[movahedin1-1510.pdf]]
-- [ ] گزارش کار، جدول درستی، نحوه کار
+- [ ] گزارش کار، جدول درستی، نحوه کار 
+	- [ ] [[]]
 - [ ] تمرین: ۱۲ سوال گروه [[CAD_Assignment-1.pdf]]
 ### معماری کامپیوتر [[Computer-Architecture.excalidraw]]
 - [ ] دانلود جزوه هاش
