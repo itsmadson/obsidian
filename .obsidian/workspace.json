@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fbd4171dad1c53cd",
+        "id": "d80e3e4759e11c56",
         "type": "tabs",
         "children": [
           {
-            "id": "3ba7bc313b86ac13",
+            "id": "69a41c4e28f2ca37",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -171,10 +171,21 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3ba7bc313b86ac13",
+  "active": "69a41c4e28f2ca37",
   "lastOpenFiles": [
-    "TODO.md",
+    "Digital-System-Design.md",
     "Uni.md",
+    "Excalidraw/Uni/Digital-System-Design/movahedin1-1510.pdf",
+    "Excalidraw/Uni/Digital-System-Design/Verilog-Hardware-Description-Language.pdf",
+    "Excalidraw/Uni/Digital-System-Design/CAD_Assignment-1.pdf",
+    "Excalidraw/Uni/Digital-System-Design/3.-Programmable-Logic-Devices.pdf",
+    "Excalidraw/Uni/Digital-System-Design/2.-Principles.pdf",
+    "Excalidraw/Uni/Digital-System-Design",
+    "home/madson/Documents/Digital-System-Design.md",
+    "home/madson/Documents",
+    "home/madson",
+    "home",
+    "TODO.md",
     "LCD.md",
     "Excalidraw/Uni/Computer-Aided-Digital-System-Design.excalidraw.md",
     "Airmon commands.md",
@@ -196,14 +207,10 @@
     "Excalidraw/Drawing 2025-03-28 16.08.43.excalidraw.md",
     "Excalidraw/nextjs setup.excalidraw.md",
     "Excalidraw/2.Nextjs.Router.excalidraw.md",
-    "Excalidraw/Nextjs",
     "Excalidraw/nextjs setup.excalidraw 1.md",
     "Excalidraw/Untitled.md",
     "Untitled Kanban.md",
     "dw.md",
-    "Excalidraw/Drawing 2025-03-10 15.13.45.excalidraw.md",
-    "test3.md",
-    "Untitled.canvas",
-    "Excalidraw"
+    "Untitled.canvas"
   ]
 }
