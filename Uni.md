@@ -13,7 +13,6 @@
   - [[3.-Programmable-Logic-Devices.pdf]]
   - [[movahedin1-1510.pdf]]
 - [ ] گزارش کار، جدول درستی، نحوه کار
-- [ ] دانلود pdf هاش
 - [ ] تمرین: ۱۲ سوال گروه [[CAD_Assignment-1.pdf]]
 ### معماری کامپیوتر [[Computer-Architecture.excalidraw]]
 - [ ] دانلود جزوه هاش
