@@ -1,10 +1,10 @@
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJvenRveXhoYnFkeWhja3BrenJmM2VyYzgxZ2Qyc3VrNGg1ZzVrdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fhAwk4DnqNgw8/giphy.gif)
 ### ساختمان داده [[Data-Strcuture.excalidraw]]
 - [x] کتاب
-- [ ] تمرین های w3 
+- [x] تمرین های w3 
 - [x] جنریتور ها و ریکرسیو فانکشن ها
 - [ ] sets (52) (page 18 ✓)
-- [ ] benyamin (ex=> w3, book)
+- [x] benyamin (ex=> w3, book)
 ### آمار و احتمال مهندسی
 - [ ] تمرین
 - [ ] جزوه احتمال زارع
@@ -16,7 +16,7 @@
 - [ ] دانلود جزوه هاش
 - [ ] تمرین صفحه ۲۹
 ### روش پژوهش ارائه
-- [ ] تکمیل مقاله / پ
+- [ ] تکمیل مقاله / پایان نامه 
 - [x] ارسال مجدد پروپزال
 ### آشنایی با صنعت
 - [ ] پایان نامه رو ارائه بدم
