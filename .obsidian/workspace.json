@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apply.md",
+                "file": "Uni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apply"
+              "title": "Uni"
             }
           }
         ],
@@ -188,10 +188,13 @@
   },
   "active": "dfcb1c0de5f1a786",
   "lastOpenFiles": [
-    "Apply-japan.md",
-    "Apply.md",
+    "Computer-Architecture.excalidraw.md",
     "Uni.md",
+    "LCD.md",
+    "Apply.md",
     "Excalidraw/Uni/Computer-Architecture/Azad.pdf",
+    "Excalidraw/Uni/Computer-Architecture/Computer-Architecture.pdf",
+    "Apply-japan.md",
     "Excalidraw/Uni/Computer-Architecture/1_17261744558.pdf",
     "Excalidraw/Uni/Computer-Architecture",
     "Excalidraw/Uni/Computer-rchitecture/1_17261744558.pdf",
@@ -201,10 +204,8 @@
     "Excalidraw/Uni/Digital-System-Design/Lab1.pdf",
     "TODO.md",
     "Excalidraw/Uni/Digital-System-Design/3.-Programmable-Logic-Devices.pdf",
-    "Excalidraw/Uni/Digital-System-Design/2.-Principles.pdf",
     "Digital-System-Design.md",
     "home/madson/Documents/Digital-System-Design.md",
-    "LCD.md",
     "Excalidraw/Uni/Computer-Aided-Digital-System-Design.excalidraw.md",
     "Airmon commands.md",
     "Excalidraw/Drawing 2025-04-19 22.17.51.excalidraw.md",
@@ -224,8 +225,6 @@
     "Excalidraw/Drawing 2025-03-28 16.08.43.excalidraw.md",
     "Excalidraw/nextjs setup.excalidraw.md",
     "Excalidraw/2.Nextjs.Router.excalidraw.md",
-    "Excalidraw/nextjs setup.excalidraw 1.md",
-    "Excalidraw/Untitled.md",
     "Untitled.canvas"
   ]
 }
