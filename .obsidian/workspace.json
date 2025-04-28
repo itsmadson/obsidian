@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "TODO"
             }
+          },
+          {
+            "id": "f77bdce91ef7a0ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,13 +186,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "69a41c4e28f2ca37",
+  "active": "f77bdce91ef7a0ae",
   "lastOpenFiles": [
+    "Uni.md",
     "Apply.md",
+    "TODO.md",
     "Excalidraw/Uni/Digital-System-Design/photo_2025-04-27_22-23-01.jpg",
     "Excalidraw/Uni/Computer-Architecture/Azad.pdf",
     "Excalidraw/Uni/Computer-Architecture/Computer-Architecture.pdf",
-    "Uni.md",
     "Computer-Architecture.excalidraw.md",
     "LCD.md",
     "Apply-japan.md",
@@ -188,7 +204,6 @@
     "Excalidraw/Uni/Computer-Artichetecer/1_17261744558.pdf",
     "Excalidraw/Uni/Computer-Artichetecer",
     "Excalidraw/Uni/Digital-System-Design/Lab1.pdf",
-    "TODO.md",
     "Excalidraw/Uni/Digital-System-Design/3.-Programmable-Logic-Devices.pdf",
     "Digital-System-Design.md",
     "home/madson/Documents/Digital-System-Design.md",
