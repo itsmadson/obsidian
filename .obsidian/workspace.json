@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apply.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apply"
-            }
-          },
-          {
-            "id": "dfcb1c0de5f1a786",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uni.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Uni"
+              "title": "TODO"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,14 +171,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "dfcb1c0de5f1a786",
+  "active": "69a41c4e28f2ca37",
   "lastOpenFiles": [
-    "Computer-Architecture.excalidraw.md",
-    "Uni.md",
-    "LCD.md",
     "Apply.md",
+    "Excalidraw/Uni/Digital-System-Design/photo_2025-04-27_22-23-01.jpg",
     "Excalidraw/Uni/Computer-Architecture/Azad.pdf",
     "Excalidraw/Uni/Computer-Architecture/Computer-Architecture.pdf",
+    "Uni.md",
+    "Computer-Architecture.excalidraw.md",
+    "LCD.md",
     "Apply-japan.md",
     "Excalidraw/Uni/Computer-Architecture/1_17261744558.pdf",
     "Excalidraw/Uni/Computer-Architecture",
