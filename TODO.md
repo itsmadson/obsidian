@@ -23,7 +23,7 @@
 
 **DAY by DAY**
 - [x] 500 Days of Summer
-- [ ] serial experiments 1998
+- [ ] serial experiments lain 1998
 - [ ] https://alicevision.org/#meshroom (3d obj)
 - [ ] lightnote.co
 - [ ] www.youtube.com/watch?v=tNZnLkRBYA8 1:28:15
