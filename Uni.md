@@ -3,7 +3,7 @@
 - [x] کتاب
 - [ ] تمرین های w3 inheritance,math ( exept polymorphism)
 - [x] جنریتور ها و ریکرسیو فانکشن ها
-- [ ] sets (52) (page 18 ✓).  3× => 99
+- [ ] sets (52) (page 18 ✓).  3× => 112
 - [x] benyamin (ex=> w3, book)
 - [ ] آبنبات پشته دار 
 ### آمار و احتمال مهندسی
