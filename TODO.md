@@ -26,7 +26,7 @@
 - [ ] serial experiments lain 1998
 - [ ] https://alicevision.org/#meshroom (3d obj)
 - [ ] lightnote.co
-- [ ] www.youtube.com/watch?v=tNZnLkRBYA8 1:28:15
+- [ ] www.youtube.com/watch?v=tNZnLkRBYA8 2:21:39
 - [ ] Code Lyoko
 - [ ] solo leveling (s2)
 - [x] David Heinemeier Hansson
