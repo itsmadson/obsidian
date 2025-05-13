@@ -12,3 +12,6 @@
 	- [ ] docker run --rm -d -p 80:8080 --name geoserver docker.arvancloud.ir/kartoza/geoserver
 	- [ ] https://github.com/kartoza/docker-geoserver
 	- [ ] http://localhost:8080/geoserver
+
+
+docker-compose up -d
