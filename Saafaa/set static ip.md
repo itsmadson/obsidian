@@ -11,8 +11,8 @@ service networking  restart
 
 nano /etc/resolv.conf
 nameserver X.X.X.X
-set dns resolv.conf
+
 
 ssh setup 
 etc/ssh/sshd_config
-uncommin premitroot
+uncommin PremitRootLogin 
