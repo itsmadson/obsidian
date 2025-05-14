@@ -262,7 +262,7 @@ WHERE ST_Intersects(
 );
 ```
 
-### Common Spatial Relationship Functions
+	### Common Spatial Relationship Functions
 
 - **ST_Contains**: Returns true if geometry A contains geometry B
 - **ST_Intersects**: Returns true if geometries share any space

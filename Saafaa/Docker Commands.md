@@ -14,4 +14,6 @@
 	- [ ] http://localhost:8080/geoserver
 
 
-docker-compose up -d
+**PostGIS commands**
+	sudo docker exec -it postgis psql -U gisuser -d mydata  bash
+	
