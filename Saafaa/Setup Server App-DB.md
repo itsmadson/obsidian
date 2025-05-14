@@ -1,3 +1,7 @@
+**Note**
+	we dont need network configuration at first
+	in debian installation  use LVM (without encryption) and setup GRUB on `/dev/sda`
+
 **Network**
 	nano etc/network/interfaces
 	iface ens.X inet static
