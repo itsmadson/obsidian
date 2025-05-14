@@ -5,9 +5,12 @@ allow-hotplug ens32
 address
 netmask
 gateway 
-dns
 
-service network start
+
+service networking  restart
+
+nano /etc/resolv.conf
+nameserver X.X.X.X
 set dns resolv.conf
 
 ssh setup 
