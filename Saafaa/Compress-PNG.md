@@ -1,4 +1,11 @@
 
+Enhanced PNG Compressor for Map Tiles
+
+------------------------------------
+
+This script optimizes PNG map tiles for the best balance between quality and file size,
+
+
 **Installation requirements:**
 	sudo apt install pngquant zopfli 
 	cargo install oxipng # Requires Rust
