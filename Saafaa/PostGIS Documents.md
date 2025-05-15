@@ -262,7 +262,7 @@ WHERE ST_Intersects(
 );
 ```
 
-	### Common Spatial Relationship Functions
+## Common Spatial Relationship Functions
 
 - **ST_Contains**: Returns true if geometry A contains geometry B
 - **ST_Intersects**: Returns true if geometries share any space
@@ -270,7 +270,7 @@ WHERE ST_Intersects(
 - **ST_Disjoint**: Returns true if geometries don't share any space
 - **ST_Equals**: Returns true if geometries are exactly the same
 - **ST_Touches**: Returns true if geometries touch at their boundaries
-- **ST_Within**: Returns true if geometry A is completely inside geometry B
+- **ST_Within**: Returns true if geometry A is completely inside geometry 
 
 ## Spatial Analysis Functions
 
