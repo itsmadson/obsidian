@@ -1,6 +1,6 @@
 
 **Installation requirements:**
-	sudo apt-get install pngquant zopfli 
+	sudo apt install pngquant zopfli 
 	cargo install oxipng # Requires Rust
 # Basic usage - optimizes all PNGs in specified directory and subdirectories
 ```bash

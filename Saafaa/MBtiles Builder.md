@@ -1,5 +1,14 @@
 **Installation requirements:**
-	uv add tqdm
+		uv add tqdm
+
+Enhanced MBTile Maker
+
+--------------------
+
+This script efficiently converts a folder of XYZ tiles into MBtiles format
+
+with parallel processing and progress tracking.
+
 
 # Basic usage
 ```
