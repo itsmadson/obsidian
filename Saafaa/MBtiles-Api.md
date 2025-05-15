@@ -15,5 +15,5 @@ GET http://localhost:8000/tiles/{tilesets}/{Z}/{X}/{Y}.png
 
 **Debug logs**
 ```
-http://localhost:8080/debug
+http://localhost:8000/debug
 ```
