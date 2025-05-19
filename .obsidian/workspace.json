@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Saafaa/Convert PNG to webp.md",
+                "file": "Saafaa/DNS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Convert PNG to webp"
+              "title": "DNS"
             }
           }
         ],
@@ -188,27 +188,28 @@
   },
   "active": "b2e77257389a9f2a",
   "lastOpenFiles": [
-    "Saafaa/Compress-PNG.md",
+    "Saafaa/Docker Commands.md",
+    "Untitled.md",
+    "Saafaa/DNS.md",
     "Saafaa/Convert PNG to webp.md",
+    "Airmon commands.md",
+    "Uni.md",
+    "TODO.md",
+    "Saafaa/WMS (Web Map Service).md",
+    "Saafaa/WFS (Web Feature Service).md",
+    "Saafaa/Tasks.md",
+    "Saafaa/Setup Server App-DB.md",
+    "Saafaa/PostGIS Documents.md",
+    "Saafaa/MBtiles-Builder.md",
     "Saafaa/MBtiles-Api.md",
     "Saafaa/Layer API Documentation.md",
-    "Saafaa/MBtiles-Builder.md",
-    "Saafaa/Setup Server App-DB.md",
-    "Saafaa/DNS.md",
-    "Saafaa/Docker Commands.md",
-    "Saafaa/PostGIS Documents.md",
+    "Saafaa/Compress-PNG.md",
     "Excalidraw/Uni/Digital-System-Design/Verilog-Hardware-Description-Language.pdf",
     "Excalidraw/Uni/Digital-System-Design/movahedin1-1510.pdf",
     "Excalidraw/Uni/Digital-System-Design/3.-Programmable-Logic-Devices.pdf",
     "Excalidraw/Uni/Digital-System-Design/2.-Principles.pdf",
-    "Saafaa/WFS (Web Feature Service).md",
-    "Saafaa/WMS (Web Map Service).md",
-    "Saafaa/Tasks.md",
     "Saafaa/yml.md",
-    "Airmon commands.md",
     "Apply.md",
-    "TODO.md",
-    "Uni.md",
     "LCD.md",
     "Pasted image 20250504213628.png",
     "Django/Crash Cource.md",
@@ -225,7 +226,6 @@
     "home/madson/Documents/Digital-System-Design.md",
     "Excalidraw/Uni/Computer-Aided-Digital-System-Design.excalidraw.md",
     "Excalidraw/Drawing 2025-04-19 22.17.51.excalidraw.md",
-    "Excalidraw/Uni/Data-Strcuture.excalidraw.md",
     "Pasted Image 20250331131046_975.png",
     "Pasted Image 20250328162403_378.png",
     "Untitled.canvas"
