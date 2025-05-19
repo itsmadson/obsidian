@@ -17,3 +17,6 @@
 saleh
 10.70.95.150
 10.70.95.162
+
+
+root password debian 
