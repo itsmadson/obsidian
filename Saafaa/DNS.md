@@ -21,4 +21,3 @@ Docker friendly
 10.70.95.162
 
 
-root password debian : IqhJy8HzL0k

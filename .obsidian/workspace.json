@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Saafaa/DNS.md",
+                "file": "Saafaa/Proxy-XYZ-Go.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNS"
+              "title": "Proxy-XYZ-Go"
             }
           }
         ],
@@ -189,6 +189,7 @@
   "active": "b2e77257389a9f2a",
   "lastOpenFiles": [
     "Saafaa/MBtiles-Api.md",
+    "Saafaa/Proxy-XYZ-Go.md",
     "Saafaa/DNS.md",
     "Saafaa/Docker Commands.md",
     "Untitled.md",
@@ -225,7 +226,6 @@
     "Digital-System-Design.md",
     "home/madson/Documents/Digital-System-Design.md",
     "Excalidraw/Uni/Computer-Aided-Digital-System-Design.excalidraw.md",
-    "Excalidraw/Drawing 2025-04-19 22.17.51.excalidraw.md",
     "Pasted Image 20250331131046_975.png",
     "Pasted Image 20250328162403_378.png",
     "Untitled.canvas"
