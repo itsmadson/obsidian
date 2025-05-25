@@ -1,5 +1,3 @@
-Perfect! ✅ I've updated the code with all your requested changes:
-Perfect! Here's your complete dockerized microservice setup:
 
 ## 🐳 Docker Setup
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Saafaa/MBtiles-Api.md",
+                "file": "Saafaa/DS EX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MBtiles-Api"
+              "title": "DS EX"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Saafaa/Proxy-XYZ-Go.md",
+                "file": "Saafaa/Convert PNG to webp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proxy-XYZ-Go"
+              "title": "Convert PNG to webp"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,14 +185,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b2e77257389a9f2a",
+  "active": "69a41c4e28f2ca37",
   "lastOpenFiles": [
+    "Pasted image 20250525210100.png",
     "Saafaa/MBtiles-Api.md",
+    "Saafaa/DS EX.md",
+    "Saafaa/Convert PNG to webp.md",
+    "Saafaa/Compress-PNG.md",
     "Saafaa/Proxy-XYZ-Go.md",
+    "LCD.md",
     "Saafaa/DNS.md",
     "Saafaa/Docker Commands.md",
     "Untitled.md",
-    "Saafaa/Convert PNG to webp.md",
     "Airmon commands.md",
     "Uni.md",
     "TODO.md",
@@ -204,14 +207,12 @@
     "Saafaa/PostGIS Documents.md",
     "Saafaa/MBtiles-Builder.md",
     "Saafaa/Layer API Documentation.md",
-    "Saafaa/Compress-PNG.md",
     "Excalidraw/Uni/Digital-System-Design/Verilog-Hardware-Description-Language.pdf",
     "Excalidraw/Uni/Digital-System-Design/movahedin1-1510.pdf",
     "Excalidraw/Uni/Digital-System-Design/3.-Programmable-Logic-Devices.pdf",
     "Excalidraw/Uni/Digital-System-Design/2.-Principles.pdf",
     "Saafaa/yml.md",
     "Apply.md",
-    "LCD.md",
     "Pasted image 20250504213628.png",
     "Django/Crash Cource.md",
     "Django",
@@ -224,8 +225,6 @@
     "Apply-japan.md",
     "Excalidraw/Uni/Computer-Architecture/1_17261744558.pdf",
     "Digital-System-Design.md",
-    "home/madson/Documents/Digital-System-Design.md",
-    "Excalidraw/Uni/Computer-Aided-Digital-System-Design.excalidraw.md",
     "Pasted Image 20250331131046_975.png",
     "Pasted Image 20250328162403_378.png",
     "Untitled.canvas"
