@@ -20,4 +20,11 @@ Docker friendly
 10.70.95.150
 10.70.95.162
 
-
+config sanad:
+Provider,DNS1,DNS2
+OpenDNS,208.67.222.222,208.67.220.220
+Google,8.8.8.8,8.8.4.4
+Cloudflare,1.1.1.1,1.0.0.1
+Docker,10.70.95.150,10.70.95.162
+Shecan,185.51.200.2,178.22.122.100
+System,,
