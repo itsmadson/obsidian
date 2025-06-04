@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Saafaa/DNS.md",
+                "file": "DNS.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VNC.md",
+                "file": "DNS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VNC"
+              "title": "DNS"
             }
           }
         ],
@@ -186,10 +186,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a2fb7d0d52bf6607",
+  "active": "f218f8797eb118b8",
   "lastOpenFiles": [
-    "Saafaa/DNS.md",
     "VNC.md",
+    "DNS.md",
     "Uni.md",
     "DS EX.md",
     "Excalidraw/Drawing 2025-05-29 23.40.32.excalidraw.md",
