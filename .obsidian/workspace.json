@@ -25,14 +25,10 @@
             "id": "a2fb7d0d52bf6607",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DNS.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "DNS"
+              "title": "New tab"
             }
           }
         ],
@@ -93,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 313.50550842285156
   },
   "right": {
     "id": "3ee8cb7a5507c887",
@@ -188,13 +184,13 @@
   },
   "active": "f218f8797eb118b8",
   "lastOpenFiles": [
-    "VNC.md",
+    "Excalidraw/Drawing 2025-05-30 01.01.52.excalidraw.md",
     "DNS.md",
+    "VNC.md",
     "Uni.md",
     "DS EX.md",
     "Excalidraw/Drawing 2025-05-29 23.40.32.excalidraw.md",
     "Excalidraw/Drawing 2025-05-30 01.25.33.excalidraw.md",
-    "Excalidraw/Drawing 2025-05-30 01.01.52.excalidraw.md",
     "Pasted image 20250525220102.png",
     "Pasted image 20250525215441.png",
     "Pasted image 20250525214341.png",
