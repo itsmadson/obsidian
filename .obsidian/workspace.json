@@ -25,10 +25,14 @@
             "id": "a2fb7d0d52bf6607",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "VNC.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "VNC"
             }
           }
         ],
@@ -182,14 +186,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f218f8797eb118b8",
+  "active": "a2fb7d0d52bf6607",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-05-29 23.40.32.excalidraw.md",
     "Excalidraw/Drawing 2025-05-30 01.01.52.excalidraw.md",
     "DNS.md",
     "VNC.md",
     "Uni.md",
     "DS EX.md",
-    "Excalidraw/Drawing 2025-05-29 23.40.32.excalidraw.md",
     "Excalidraw/Drawing 2025-05-30 01.25.33.excalidraw.md",
     "Pasted image 20250525220102.png",
     "Pasted image 20250525215441.png",
