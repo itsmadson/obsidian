@@ -18,7 +18,6 @@
 
 Docker friendly
 10.70.95.150
-10.70.95.162
 
 config sanad:
 Provider,DNS1,DNS2
