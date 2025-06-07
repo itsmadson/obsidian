@@ -49,7 +49,8 @@
               "title": "DS-Practice"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,10 +201,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9bfe48f599449a18",
+  "active": "48bc13fd73e10fcd",
   "lastOpenFiles": [
-    "DS-Practice.md",
     "DS EX.md",
+    "DS-Practice.md",
     "Pasted image 20250607125510.png",
     "Pasted image 20250607125502.png",
     "DNS.md",
