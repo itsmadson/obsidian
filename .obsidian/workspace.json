@@ -13,22 +13,24 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Excalidraw/Uni/Computer-Architecture/Azad.pdf"
+                "file": "Excalidraw/Uni/Digital-System-Design/2.-Principles.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Azad"
+              "title": "2.-Principles"
             }
           },
           {
-            "id": "f82260b8867d47c0",
+            "id": "736dfa28422e89ea",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-06-18 07.53.13.excalidraw.md"
+                "file": "LCD.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-18 07.53.13.excalidraw"
+              "icon": "lucide-file",
+              "title": "LCD"
             }
           }
         ],
@@ -89,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.50550842285156
+    "width": 295.5
   },
   "right": {
     "id": "3ee8cb7a5507c887",
@@ -182,27 +184,34 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f82260b8867d47c0",
+  "active": "736dfa28422e89ea",
   "lastOpenFiles": [
-    "Pasted Image 20250618082413_722.png",
+    "Excalidraw/Uni/Digital-System-Design/2.-Principles.pdf",
+    "LCD.md",
+    "Saafaa/Proxy-XYZ-Go.md",
+    "VNC.md",
+    "Airmon commands.md",
+    "Apply.md",
+    "Cleanup RAM.md",
+    "Pasted image 20250525210100.png",
+    "DS EX.md",
+    "DS-Practice.md",
+    "Excalidraw/Uni/Digital-System-Design/3.-Programmable-Logic-Devices.pdf",
     "Excalidraw/Uni/Computer-Architecture/Azad.pdf",
+    "Excalidraw/Uni/Digital-System-Design/CAD_Assignment-1.pdf",
+    "Excalidraw/Uni/Digital-System-Design/Verilog-Hardware-Description-Language.pdf",
+    "Excalidraw/Uni/Digital-System-Design/movahedin1-1510.pdf",
+    "Excalidraw/Uni/Digital-System-Design/Lab1.pdf",
     "Excalidraw/Drawing 2025-06-18 07.53.13.excalidraw.md",
+    "Pasted Image 20250618082413_722.png",
     "Pasted Image 20250618082214_769.png",
     "Excalidraw/Uni/Computer-Architecture/Computer-Architecture.pdf",
-    "DS-Practice.md",
-    "VNC.md",
-    "DS EX.md",
     "Pasted image 20250607125510.png",
     "Pasted image 20250607125502.png",
     "DNS.md",
-    "Cleanup RAM.md",
     "Uni.md",
     "TODO.md",
-    "LCD.md",
-    "Apply.md",
-    "Airmon commands.md",
     "Saafaa/WMS (Web Map Service).md",
-    "Saafaa/Proxy-XYZ-Go.md",
     "Saafaa/PostGIS Documents.md",
     "Saafaa/MBtiles-Builder.md",
     "Saafaa/MBtiles-Api.md",
@@ -220,16 +229,8 @@
     "Pasted image 20250525214341.png",
     "Pasted image 20250525210311.png",
     "Pasted image 20250525210305.png",
-    "Pasted image 20250525210100.png",
-    "Excalidraw/Uni/Digital-System-Design/Verilog-Hardware-Description-Language.pdf",
-    "Excalidraw/Uni/Digital-System-Design/movahedin1-1510.pdf",
-    "Excalidraw/Uni/Digital-System-Design/3.-Programmable-Logic-Devices.pdf",
-    "Excalidraw/Uni/Digital-System-Design/2.-Principles.pdf",
-    "Pasted image 20250504213628.png",
     "Django",
     "Saafaa",
-    "Excalidraw/Uni/Digital-System-Design/CAD_Assignment-1.pdf",
-    "Excalidraw/Uni/Computer-Architecture/1_17261744558.pdf",
     "Untitled.canvas"
   ]
 }
