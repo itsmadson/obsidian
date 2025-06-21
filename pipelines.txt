@@ -1,0 +1,3 @@
+electron: npx electron-packager . Afsooneh --platform=win32 --arch=x64 --icon=./afsoone.ico --out=dist --asar --overwrite
+android react native: eas build -p android --profile preview 
+android aab (app bundel): eas build -p android 
