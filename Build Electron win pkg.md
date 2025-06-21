@@ -1,0 +1,1 @@
+ npx electron-packager . Afsooneh --platform=win32 --arch=x64 --icon=./afsoone.ico --out=dist --asar --overwrite
