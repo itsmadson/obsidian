@@ -23,12 +23,14 @@
             "id": "9a0eaaa264c84d03",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-06-21 10.08.44.excalidraw.md"
+                "file": "LCD.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-21 10.08.44.excalidraw"
+              "icon": "lucide-file",
+              "title": "LCD"
             }
           }
         ],
@@ -184,9 +186,10 @@
   },
   "active": "9a0eaaa264c84d03",
   "lastOpenFiles": [
+    "Excalidraw/digital-aided-system-exam.excalidraw.md",
     "AR games.md",
+    "Excalidraw/ca-exam.excalidraw.md",
     "Excalidraw/Uni/Digital-System-Design/3.-Programmable-Logic-Devices.pdf",
-    "Excalidraw/Drawing 2025-06-21 10.08.44.excalidraw.md",
     "Untitled.md",
     "Excalidraw/Uni/Digital-System-Design/movahedin1-1510.pdf",
     "Excalidraw/Uni/Digital-System-Design/CAD_Assignment-1.pdf",
@@ -203,7 +206,6 @@
     "DS-Practice.md",
     "Excalidraw/Uni/Computer-Architecture/Azad.pdf",
     "Excalidraw/Uni/Digital-System-Design/Verilog-Hardware-Description-Language.pdf",
-    "Excalidraw/Drawing 2025-06-18 07.53.13.excalidraw.md",
     "Pasted Image 20250618082413_722.png",
     "Pasted Image 20250618082214_769.png",
     "Excalidraw/Uni/Computer-Architecture/Computer-Architecture.pdf",
