@@ -17,11 +17,12 @@ Package.json:
   "build": {
     "appId": "com.madson.pomoson",
     "productName": "Pomoson",
-    "linux": {
-      "target": ["deb"],
-      "icon": "afsoone",  // no extension, place afsoone.png or .ico in your root or /build
-      "category": "Utility"
-    }
+	"linux": {  
+	  "target": ["deb"],  
+	  "icon": "pomoson.png",  
+	  "category": "Utility",  
+	  "maintainer": "Madson"  
+	}
   },
   "scripts": {
     "dist": "electron-builder"
