@@ -48,4 +48,10 @@ electron-builder --linux deb
 
 Windows
 ```
+electron-builder --win nsis
+```
+
+or: for 
+```
+npm run electron-build
 ```
