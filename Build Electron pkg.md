@@ -38,3 +38,14 @@ npm run dist
 ```
 npx electron-builder --linux deb
 ```
+
+
+Method 2:
+Linux
+```
+electron-builder --linux deb   
+```
+
+Windows
+```
+```

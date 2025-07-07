@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 239.5
   },
   "right": {
     "id": "3ee8cb7a5507c887",
@@ -171,11 +171,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "41dc1c12a8c60586",
+  "active": "f218f8797eb118b8",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Build Electron pkg.md",
     "Expo build.md",
     "DNS.md",
-    "Build Electron pkg.md",
     "Reset Forge.md",
     "TODO.md",
     "Excalidraw/Uni/Digital-System-Design/3.-Programmable-Logic-Devices.pdf",
@@ -184,7 +185,6 @@
     "Uni.md",
     "VNC.md",
     "AR games.md",
-    "Untitled.md",
     "pipelines.txt",
     "Excalidraw/digital-aided-system-exam.excalidraw.md",
     "Excalidraw/ca-exam.excalidraw.md",
