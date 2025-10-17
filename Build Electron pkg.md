@@ -51,7 +51,7 @@ Windows
 electron-builder --win nsis
 ```
 
-or: for 
+or: for both
 ```
 npm run electron-build
 ```

@@ -8,20 +8,57 @@
         "type": "tabs",
         "children": [
           {
-            "id": "41dc1c12a8c60586",
+            "id": "8e6936ab6a15333c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Saafaa/api-agent.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "api-agent.excalidraw"
+            }
+          },
+          {
+            "id": "82121afe041f8759",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Uni/linear-algebra/Drawing 2025-09-25 21.22.31.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-25 21.22.31.excalidraw"
+            }
+          },
+          {
+            "id": "7648c04522b74479",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Uni/Drawing 2025-10-13 15.17.54.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-13 15.17.54.excalidraw"
+            }
+          },
+          {
+            "id": "aefc92c55d2689c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Build Electron pkg.md",
+                "file": "ssh & sshfs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Build Electron pkg"
+              "title": "ssh & sshfs"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 200
   },
   "right": {
     "id": "3ee8cb7a5507c887",
@@ -160,6 +197,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -171,10 +209,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f218f8797eb118b8",
+  "active": "aefc92c55d2689c7",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Excalidraw/Uni/Drawing 2025-10-13 15.17.54.excalidraw.md",
+    "ssh & sshfs.md",
+    "Excalidraw/Uni/linear-algebra/Drawing 2025-09-25 21.22.31.excalidraw.md",
     "Build Electron pkg.md",
+    "Excalidraw/Uni/linear-algebra",
+    "Excalidraw/Nextjs/6.Database-Prisma.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-03 10.49.15.excalidraw.md",
+    "Saafaa/api-agent.excalidraw.md",
     "Expo build.md",
     "DNS.md",
     "Reset Forge.md",
@@ -208,16 +252,11 @@
     "Saafaa/WMS (Web Map Service).md",
     "Saafaa/PostGIS Documents.md",
     "Saafaa/MBtiles-Builder.md",
-    "Saafaa/MBtiles-Api.md",
-    "Saafaa/Layer API Documentation.md",
-    "Saafaa/geoserver?.md",
-    "Saafaa/WFS (Web Feature Service).md",
     "Pasted image 20250525220102.png",
     "Pasted image 20250525215441.png",
     "Pasted image 20250525214341.png",
     "Pasted image 20250525210311.png",
     "Pasted image 20250525210305.png",
-    "Django",
     "Untitled.canvas"
   ]
 }
