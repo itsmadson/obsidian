@@ -1,0 +1,7 @@
+{
+  "font_folder": ".obsidian/fonts/",
+  "font": "BBCQalam.ttf",
+  "force_mode": false,
+  "custom_css_mode": true,
+  "custom_css": "/* Example CSS for your font: bbcqalam */\n\n/* Apply to all text */\n:root * {\n\t--font-default: 'bbcqalam';\n\t--default-font: 'bbcqalam';\n\t--font-family-editor: 'bbcqalam';\n\t--font-interface-override: 'bbcqalam';\n\t--font-text-override: 'bbcqalam';\n}\n\n/* Example: Apply to custom CSS class */\n.custom-font * {\n\tfont-family: 'bbcqalam' !important;\n}\n\n/* Example: Apply to specific elements only */\n.custom-font h1, .custom-font h2, .custom-font h3 {\n\tfont-family: 'bbcqalam' !important;\n}"
+}
