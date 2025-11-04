@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Catppuccin Theme"
             }
+          },
+          {
+            "id": "0802bf331092e46d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/traffic.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "traffic"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 307
   },
   "right": {
     "id": "3ee8cb7a5507c887",
@@ -201,10 +213,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "95224bab9da428be",
+  "active": "0802bf331092e46d",
   "lastOpenFiles": [
-    "VNC.md",
     "Catppuccin Theme.md",
+    "Excalidraw/traffic.md",
+    "VNC.md",
     "Apple ID.md",
     "Reset Forge.md",
     "Excalidraw/Uni/linear-algebra/Drawing 2025-09-25 21.22.31.excalidraw.md",
@@ -230,7 +243,6 @@
     "Saafaa/api-agent.excalidraw.md",
     "Saafaa/Compress-PNG.md",
     "Saafaa/Convert PNG to webp.md",
-    "Saafaa/Docker Commands.md",
     "Excalidraw/Uni/database",
     "Excalidraw/Uni/linear-algebra",
     "Excalidraw/Uni/Digital-System-Design/3.-Programmable-Logic-Devices.pdf",
