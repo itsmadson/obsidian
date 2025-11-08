@@ -1,53 +1,44 @@
-عالی، فرمت مشخصه و من دقیقاً با همین الگو کل سیستم رو دوباره از صفر نوشتم — این نسخه‌ی کامل و منسجم شامل **Auth، مدیریت کاربران، نقش‌ها، تمام موجودیت‌های ترافیکی و تحلیلی** هست.  
-این می‌تونه به‌عنوان مستند رسمی پروژه backend ثبت بشه.
-
----
-
 ## 🧩 طراحی دیتابیس نهایی (Final DB Schema)
 
 ### 1. **User**
 
-|Field|Type|Description|
-|---|---|---|
-|id|int|Primary key|
-|full_name|text|نام کامل کاربر|
-|email|text(unique)|ایمیل کاربر|
-|phone|text(nullable)|شماره تماس|
-|password_hash|text|هش رمزعبور|
-|role|varchar|admin / operator / viewer|
-|is_active|bool|وضعیت فعال بودن|
-|created_at|timestamp|زمان ایجاد حساب|
+| Field         | Type         | Description               |
+| ------------- | ------------ | ------------------------- |
+| id            | int          | Primary key               |
+| full_name     | text         | نام کامل کاربر            |
+| phone         | text(unique) | شماره تماس                |
+| password_hash | text         | هش رمزعبور                |
+| role          | varchar      | admin / operator / viewer |
+| is_active     | bool         | وضعیت فعال بودن           |
+| created_at    | timestamp    | زمان ایجاد حساب           |
 
 ---
 
 ### 2. **Segment**
 
-|Field|Type|Description|
-|---|---|---|
-|id|int|Primary key|
-|name|text|نام سگمنت|
-|geom_start|geometry(Point)|نقطه شروع مسیر|
-|geom_end|geometry(Point)|نقطه پایان مسیر|
-|geometry|geometry(LineString)|مسیر کامل (OSM یا routing API)|
-|distance_km|float|مسافت مسیر (km)|
-|time_period|varchar|دوره زمانی: morning_rush / midday / evening / night|
-|traffic_color|varchar|رنگ ترافیک (green/yellow/red/darkred)|
-|congestion_index|float|شاخص تراکم (۰–۱)|
-|avg_speed_kmh|float|سرعت میانگین فعلی|
-|eta_base_min|float|ETA پایه|
-|eta_adjusted_min|float|ETA نهایی با ضرایب|
-|impact_seconds|int|اختلاف زمانی با حالت آزاد|
-|pixels_analyzed|int|تعداد پیکسل‌های تحلیلی ML|
-|tiles_downloaded|int|تعداد کاشی‌های سرویس ترافیکی|
-|route_segments_count|int|تعداد زیربخش‌ها در مسیر|
-|ml_detection|bool|آیا تحلیل ML انجام شده؟|
-|traffic_label|varchar|وضعیت متنی ترافیک|
-|multiplier_traffic|float|ضریب ترافیک|
-|multiplier_temporal|float|ضریب زمانی|
-|multiplier_combined|float|ضریب نهایی (traffic×temporal×event)|
-|dominant_event_id|int (FK→Event, nullable)|رویداد مؤثر فعلی|
-|created_by|int (FK→User)|ایجادکننده سگمنت|
-|last_updated|timestamp|آخرین بروزرسانی|
+| Field               | Type                     | Description                                         |
+| ------------------- | ------------------------ | --------------------------------------------------- |
+| id                  | int                      | Primary key                                         |
+| name                | text                     | نام سگمنت                                           |
+| geom_start          | geometry(Point)          | نقطه شروع مسیر                                      |
+| geom_end            | geometry(Point)          | نقطه پایان مسیر                                     |
+| geometry            | geometry(LineString)     | مسیر کامل (OSM یا routing API)                      |
+| distance_km         | float                    | مسافت مسیر (km)                                     |
+| time_period         | varchar                  | دوره زمانی: morning_rush / midday / evening / night |
+| traffic_color       | varchar                  | رنگ ترافیک (green/yellow/red/darkred)               |
+| congestion_index    | float                    | شاخص تراکم (۰–۱)                                    |
+| avg_speed_kmh       | float                    | سرعت میانگین فعلی                                   |
+| eta_base_min        | float                    | ETA پایه                                            |
+| eta_adjusted_min    | float                    | ETA نهایی با ضرایب                                  |
+| impact_seconds      | int                      | اختلاف زمانی با حالت آزاد                           |
+| ml_detection        | bool                     | آیا تحلیل ML انجام شده؟                             |
+| traffic_label       | varchar                  | وضعیت متنی ترافیک                                   |
+| multiplier_traffic  | float                    | ضریب ترافیک                                         |
+| multiplier_temporal | float                    | ضریب زمانی                                          |
+| multiplier_combined | float                    | ضریب نهایی (traffic×temporal×event)                 |
+| dominant_event_id   | int (FK→Event, nullable) | رویداد مؤثر فعلی                                    |
+| created_by          | int (FK→User)            | ایجادکننده سگمنت                                    |
+| last_updated        | timestamp                | آخرین بروزرسانی                                     |
 
 ---
 
@@ -174,7 +165,7 @@
     
 - **Front Map Layer Loader:**  
     API `/api/map/all` تمام داده‌های لایه‌ها را در یک GeoJSON ترکیب‌شده برمی‌گرداند.  
-    در فرانت با MapLibre / Leaflet روی نقشه رندر می‌شود.
+    در فرانت با  Leaflet روی نقشه رندر می‌شود.
     
 - **Traffic Processor:**  
     هر ۵ یا ۱۰ دقیقه، worker با سرویس ترافیکی (Google Tile / ML) داده ETA، رنگ ترافیک، و شاخص‌ها را می‌گیرد و:
@@ -184,7 +175,7 @@
     - Snapshot را در History ذخیره می‌کند
         
 - **Analytics Engine:**  
-    با داده‌های History روند، میانگین، و heatmap تولید می‌کند.
+    با داده‌های History روند، میانگین، و heatmap تولید می‌کند. (برای فرانت روی نقشه قابل نمایش باشه)
     
 - **Admin Panel:**  
     ایجاد/ویرایش Segments، Events، Cameras، Parking، Accidents  
@@ -282,3 +273,13 @@
 |`/api/analytics/trend`|GET|روند تغییرات ترافیک|
 |`/api/analytics/top-segments`|GET|پرترافیک‌ترین مسیرها|
 |`/api/analytics/compare`|GET|مقایسه با بازه قبلی (week/month/year)|
+
+Traffic transparent Layer:
+https://mt1.google.com/vt?lyrs=h@159000000,traffic|seconds_into_week:-1&style=3&x={tile_x}&y={tile_y}&z={zoom}
+
+Basemaps:
+https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}
+
+
+osm:
+http://tile.openstreetmap.org/{z}/{x}/{y}.png
