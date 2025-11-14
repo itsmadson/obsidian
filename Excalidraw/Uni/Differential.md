@@ -1,4 +1,4 @@
-جزوه اول با انتگرال گیری شروع شده و بعد مباحث معادلات دیفرانسیل و در آخر roudmap برای حل انواع سوال ها.
+جزوه اول با انتگرال گیری شروع شده و بعد مباحث معادلات دیفرانسیل و در آخر roadmap برای حل انواع سوال ها.
 ## **I. فرمول‌ها و قواعد اصلی انتگرال‌گیری**
 
 ### **۱. انتگرال توابع توانی (Power Rule)**
@@ -22,16 +22,16 @@ $$\mathbf{\int x^n dx = \frac{x^{n+1}}{n+1} + C} \quad (\text{برای } n \neq 
 
 ### **۳. انتگرال توابع مثلثاتی (Trigonometric)**
 
-|تابع|انتگرال (در جزوه ذکر شده)|کاربرد اصلی|
-|:--|:--|:--|
-|$\mathbf{\int \sin(ax) dx}$ [۱, ۲]|$\mathbf{-\frac{1}{a} \cos(ax) + C}$ [۱, ۲]|حل $y'' + \dots = \sin(ax)$|
-|$\mathbf{\int \cos(ax) dx}$ [۱, ۲]|$\mathbf{\frac{1}{a} \sin(ax) + C}$ [۱, ۲]|حل $y'' + \dots = \cos(ax)$|
-|$\mathbf{\int \tan(x) dx}$ [۱, ۲]|$\mathbf{-\ln|\cos x|
-|$\mathbf{\int \cot(x) dx}$ [۱, ۲]|$\mathbf{\ln|\sin x|
-|$\mathbf{\int \sec(x) dx}$ [۱, ۲]|$\mathbf{\ln|\sec x + \tan x|
-|$\mathbf{\int \csc(x) dx}$ [۱, ۲]|$\mathbf{-\ln|\csc x + \cot x|
-|$\mathbf{\int \sec^2(x) dx}$ [۲۱]|$\mathbf{\tan x + C}$ [۲۱]|انتگرال توابع جایگزینی|
-|$\mathbf{\int \csc^2(x) dx}$ [۲۱]|$\mathbf{-\cot x + C}$ [۲۱]|در حل معادله $y' - y\cot x = \csc x$ [۲۱]|
+| تابع                               | انتگرال (در جزوه ذکر شده)                   | کاربرد اصلی                               |
+| :--------------------------------- | :------------------------------------------ | :---------------------------------------- |
+| $\mathbf{\int \sin(ax) dx}$ [۱, ۲] | $\mathbf{-\frac{1}{a} \cos(ax) + C}$ [۱, ۲] | حل $y'' + \dots = \sin(ax)$               |
+| $\mathbf{\int \cos(ax) dx}$ [۱, ۲] | $\mathbf{\frac{1}{a} \sin(ax) + C}$ [۱, ۲]  | حل $y'' + \dots = \cos(ax)$               |
+| $\mathbf{\int \tan(x) dx}$ [۱, ۲]  | $\mathbf{-\ln                               | \cos x                                    |
+| $\mathbf{\int \cot(x) dx}$ [۱, ۲]  | $\mathbf{\ln                                | \sin x                                    |
+| $\mathbf{\int \sec(x) dx}$ [۱, ۲]  | $\mathbf{\ln                                | \sec x + \tan x                           |
+| $\mathbf{\int \csc(x) dx}$ [۱, ۲]  | $\mathbf{-\ln                               | \csc x + \cot x                           |
+| $\mathbf{\int \sec^2(x) dx}$ [۲۱]  | $\mathbf{\tan x + C}$ [۲۱]                  | انتگرال توابع جایگزینی                    |
+| $\mathbf{\int \csc^2(x) dx}$ [۲۱]  | $\mathbf{-\cot x + C}$ [۲۱]                 | در حل معادله $y' - y\cot x = \csc x$ [۲۱] |
 
 ### **۴. انتگرال‌های خاص مورد نیاز:**
 
