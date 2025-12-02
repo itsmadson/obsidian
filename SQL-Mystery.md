@@ -99,4 +99,10 @@ event_id	event_name	date
 
 SELECT * FROM facebook_event_checkin 
 WHERE person_id IN (78881, 90700, 99716);
-```
+
+
+Clownfish are between 3-7 inches in length, weigh between 0.2 and 0.8 pounds, and live in the coral reef.
+
+Octopuses (Octopus vulgaris) is 12 to 36 inches long and weighs 6.6 to 23 pounds. They live in coastal marine waters.
+
+Starfish are from 0.5 to 40 inches across, between 3.3 and 6.6 pounds, and you found them in the kelp forest.
