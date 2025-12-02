@@ -94,3 +94,9 @@ event_id	event_name	date
 1143	SQL Symphony Concert	20171206
 1143	SQL Symphony Concert	20171212
 1143	SQL Symphony Concert	20171229
+```
+
+
+SELECT * FROM facebook_event_checkin 
+WHERE person_id IN (78881, 90700, 99716);
+```
